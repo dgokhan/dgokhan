@@ -1,4 +1,6 @@
+![ss2.png](https://i.hizliresim.com/eAT0kl.png)
 ### Hi there 👋
+
 
 <!--
 **dgokhan/dgokhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
