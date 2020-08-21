@@ -2,8 +2,7 @@
 
 [![Website](https://img.shields.io/codacy/grade/e27821fb6289410b8f58338c7e0bc686?color=a&label=gokhandogru.net&logo=f&logoColor=d&style=for-the-badge)](https://www.gokhandogru.net/#about-me) <img width="29px" src="https://seeklogo.com/images/X/xamarin-logo-348B1EB629-seeklogo.com.png" /> 
 <img width="29px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Android_logo_2019.svg/1173px-Android_logo_2019.svg.png" />
-
-
+<img width="29px" src="https://cdn3.iconfinder.com/data/icons/social-media-logos-glyph/2048/5315_-_Apple-512.png" />
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Gökhan Doğru Spotify Playing" width="350" />](https://open.spotify.com/user/21glt3wftruzxqvficwplvcba)
