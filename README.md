@@ -1,7 +1,8 @@
 ### Hi there, I'm Gökhan 👋
 
-[![Website](https://img.shields.io/codacy/grade/e27821fb6289410b8f58338c7e0bc686?color=a&label=gokhandogru.net&logo=f&logoColor=d&style=for-the-badge)](https://www.gokhandogru.net/#about-me)
-<img align="left" alt="Visual Studio Code" width="26px" src="https://seeklogo.com/images/X/xamarin-logo-348B1EB629-seeklogo.com.png" />
+[![Website](https://img.shields.io/codacy/grade/e27821fb6289410b8f58338c7e0bc686?color=a&label=gokhandogru.net&logo=f&logoColor=d&style=for-the-badge)](https://www.gokhandogru.net/#about-me) <img width="29px" src="https://seeklogo.com/images/X/xamarin-logo-348B1EB629-seeklogo.com.png" /> 
+<img width="29px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Android_logo_2019.svg/1173px-Android_logo_2019.svg.png" />
+
 
 
 ### Spotify Playing 🎧
