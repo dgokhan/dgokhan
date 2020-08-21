@@ -1,6 +1,7 @@
 ### Hi there, I'm Gökhan 👋
 
 [![Website](https://img.shields.io/codacy/grade/e27821fb6289410b8f58338c7e0bc686?color=a&label=gokhandogru.net&logo=f&logoColor=d&style=for-the-badge)](https://www.gokhandogru.net/#about-me)
+<img align="left" alt="Visual Studio Code" width="26px" src="https://seeklogo.com/images/X/xamarin-logo-348B1EB629-seeklogo.com.png" />
 
 
 ### Spotify Playing 🎧
@@ -31,14 +32,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-<br />
-
-### inLove:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://seeklogo.com/images/X/xamarin-logo-348B1EB629-seeklogo.com.png" />
-
-<br />
-<br />
+<br />  
 
 --- 
 
