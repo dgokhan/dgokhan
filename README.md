@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=dgokhan&style=flat-square)
 ### Hi there, I'm Gökhan 👋
 
 [![Website](https://img.shields.io/codacy/grade/e27821fb6289410b8f58338c7e0bc686?color=a&label=gokhandogru.net&logo=f&logoColor=d&style=for-the-badge)](https://www.gokhandogru.net/#about-me) <img width="29px" src="https://seeklogo.com/images/X/xamarin-logo-348B1EB629-seeklogo.com.png" /> 
