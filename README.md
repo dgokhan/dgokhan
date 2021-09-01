@@ -1,4 +1,4 @@
-<img src="https://i1.wp.com/i.giphy.com/media/11kEuHSQAXXiGQ/giphy-downsized.gif?w=770&ssl=1" />
+<img src="https://hackernoon.com/hn-images/1*QPSlOyQ0EeJG169-JBYOUQ.gif" />
 
 ### Hi there, I'm Gökhan 👋
 
