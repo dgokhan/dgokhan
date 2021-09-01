@@ -1,5 +1,3 @@
-<img src="https://hackernoon.com/hn-images/1*QPSlOyQ0EeJG169-JBYOUQ.gif" />
-
 ### Hi there, I'm Gökhan 👋
 
 <p align="left"> 
