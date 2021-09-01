@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/61d647cf136e8b81720294531eedb797e4a1511fb2ad76796526865642ff76e7/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5a56696b377042747539644e532f67697068792e676966" />
+<img src="https://i1.wp.com/i.giphy.com/media/11kEuHSQAXXiGQ/giphy-downsized.gif?w=770&ssl=1" />
 
 ### Hi there, I'm Gökhan 👋
 
