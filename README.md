@@ -15,16 +15,8 @@
 <img align="left" alt="dgokhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dgokhan" />
 
 
-<details>
-  <summary>🔥  Github Projects</summary>
-  
-<!--START_SECTION:activity-->
-1. 🌍 [EarthQaukeAlarm](https://github.com/dgokhan/EarthquakeAlarm)
-2. :heavy_check_mark: ️[XamNike](https://github.com/dgokhan/XamNike)
-3. 🎥 [XamFilm](https://github.com/dgokhan/XamFilm) 
-<!--END_SECTION:activity-->
- 
-</details>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgokhan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://www.gokhandogru.net/#about-me
 [twitter]: https://twitter.com/dxgokhan 
