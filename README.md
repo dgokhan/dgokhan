@@ -8,15 +8,9 @@
   <a href="https://gokhandogru.net"><img src="https://img.shields.io/badge/Website-gokhandogru.net-red?style=flat-square" alt="Website" href="https://gokhandogru.net"></a>
 
 
-</p>
- 
- 
+</p> 
 
-<img align="left" alt="dgokhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dgokhan" />
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgokhan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?include_all_commits=true&hide_title=true&username=dgokhan&count_private=true&show_icons=true&theme=graywhite) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgokhan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://www.gokhandogru.net/#about-me
 [twitter]: https://twitter.com/dxgokhan 
