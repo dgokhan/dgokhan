@@ -10,7 +10,7 @@
 
 </p> 
 
-![](https://github-readme-stats.vercel.app/api?include_all_commits=true&hide_title=true&username=dgokhan&count_private=true&show_icons=true&theme=graywhite) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgokhan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?include_all_commits=true&hide_title=true&username=dgokhan&count_private=true&show_icons=true&theme=graywhite)
 
 [website]: https://www.gokhandogru.net/#about-me
 [twitter]: https://twitter.com/dxgokhan 
