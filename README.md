@@ -16,4 +16,4 @@
 [twitter]: https://twitter.com/dxgokhan 
 [instagram]: https://instagram.com/dxgokhan
 [linkedin]: https://www.linkedin.com/in/g%C3%B6khan-do%C4%9Fru-2b0762158/  
-![snake svg](https://github.com/dgokhan/dgokhan/blob/output/github-contribution-grid-snake.svg)
+![gd.png](https://i.ibb.co/vksyjJV/1622052858744.jpg)
