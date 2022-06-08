@@ -10,8 +10,6 @@
 
 </p> 
 
-
-
 [website]: https://www.gokhandogru.net/#about-me
 [twitter]: https://twitter.com/dxgokhan 
 [instagram]: https://instagram.com/dxgokhan
