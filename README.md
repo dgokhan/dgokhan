@@ -6,8 +6,6 @@
   <a href="https://twitter.com/dxgokhan"><img src="https://img.shields.io/twitter/follow/dxgokhan?style=flat-square&logo=twitter" alt="Twitter" href="https://twitter.com/dxgokhan"></a>
   <a href="https://www.github.com/dgokhan/"><img src="https://img.shields.io/badge/GitHub-dgokhan-lightgrey?style=flat-square&logo=github" alt="GitHub" href="https://www.github.com/navendu-dgokhan/"></a>
   <a href="https://gokhandogru.net"><img src="https://img.shields.io/badge/Website-gokhandogru.net-red?style=flat-square" alt="Website" href="https://gokhandogru.net"></a>
-
-
 </p> 
 
 [website]: https://www.gokhandogru.net/#about-me
